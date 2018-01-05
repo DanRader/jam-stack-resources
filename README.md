@@ -18,13 +18,12 @@ a list of resources for working with serverless websites
 ### Cloudflare
 - https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
 
-## Domains with gh-pages
-### https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
-
 ## Content Management
 ### https://www.siteleaf.com/
-### https://www.netlifycms.org/ (only Go/Hugo)
+### https://www.netlifycms.org/ 
+- (only Go/Hugo)
 
 ## Hosting
 ### https://pages.github.com/
+- https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
 ### https://www.netlify.com/
