@@ -7,6 +7,7 @@ https://pageclip.co/#pricing
 
 https://zapier.com/
 - good starting place https://www.harrycresswell.com/articles/form-data-with-zapier/
+- A gist to outline a little better AJAX call https://gist.github.com/DanRader/7b74e52fcb1da25d2294d12b4d868be9
 
 
 ## ecommerce
