@@ -16,3 +16,6 @@ https://snipcart.com/
 ## SSL
 Cloudflare
 - https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
+
+## Domains with gh-pages
+https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
