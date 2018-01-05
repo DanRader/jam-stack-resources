@@ -23,6 +23,7 @@ https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains
 
 ## Content Management
 https://www.siteleaf.com/
+https://www.netlifycms.org/ (only Go/Hugo)
 
 ## Hosting
 https://pages.github.com/
