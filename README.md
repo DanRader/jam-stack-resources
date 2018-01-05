@@ -10,3 +10,7 @@ https://zapier.com/
 
 
 ## ecommerce
+https://snipcart.com/
+- https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll
+
+##SSL
