@@ -13,4 +13,6 @@ https://zapier.com/
 https://snipcart.com/
 - https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll
 
-##SSL
+## SSL
+Cloudflare
+- https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
