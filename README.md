@@ -20,3 +20,10 @@ Cloudflare
 
 ## Domains with gh-pages
 https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c
+
+## Content Management
+https://www.siteleaf.com/
+
+## Hosting
+https://pages.github.com/
+https://www.netlify.com/
